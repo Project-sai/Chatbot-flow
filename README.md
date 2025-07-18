@@ -2,8 +2,6 @@
 
 A visual tool for building chatbot conversation flows using React and React Flow.
 
-![Chatbot Flow Builder Screenshot](./screenshot.png)
-
 ## Features
 
 - Drag-and-drop interface for building chat flows
