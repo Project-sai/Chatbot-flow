@@ -1,0 +1,4 @@
+.react-flow__panel.left {
+    /* left: 0; */
+    right: 0 !important;
+}
