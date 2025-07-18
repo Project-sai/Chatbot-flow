@@ -13,7 +13,7 @@ A visual tool for building chatbot conversation flows using React and React Flow
 ## Live Demo
 
 Check out the live version hosted on Vercel:  
-[![Vercel](https://img.shields.io/badge/Vercel-Live_Demo-black?style=for-the-badge&logo=vercel)]([https://chatbot-flow-builder.vercel.app](https://chatbot-flow-project-sais-projects.vercel.app/))
+[![Vercel](https://img.shields.io/badge/Vercel-Live_Demo-black?style=for-the-badge&logo=vercel)](https://chatbot-flow-eosin.vercel.app/)
 
 ## Installation
 
